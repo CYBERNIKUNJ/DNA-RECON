@@ -44,7 +44,6 @@ mkdir "/data/data/com.termux/files/usr/share/DNA-recon"
  cp "DNA-recon.py" "/data/data/com.termux/files/usr/share/DNA-recon"
  cp "install.sh" "/data/data/com.termux/files/usr/share/DNA-recon"
  cp -R "utility/" "/data/data/com.termux/files/usr/share/DNA-recon/utility"
- cp -R "pytransform/" "/data/data/com.termux/files/usr/share/DNA-recon/pytransform"
  cp -R "modules/"  "/data/data/com.termux/files/usr/share/DNA-recon/modules"
   echo -e "$red [$green+$red]$off Creating Symbolic Link ...";
   echo "#!/data/data/com.termux/files/usr/bin/bash 
@@ -95,7 +94,6 @@ python3 /usr/share/DNA-recon/DNA-recon.py" '${1+"$@"}' > "DNA-recon";
     sudo cp "install.sh" "/usr/share/DNA-recon"
     sudo cp "DNA-recon.py" "/usr/share/DNA-recon"
     sudo cp -R "utility/" "/usr/share/DNA-recon/utility"
-    sudo cp -R "pytransform/" "/usr/share/DNA-recon/pytransform"
     sudo cp -R "modules/"  "/usr/share/DNA-recon/modules"	
     sudo cp "utility/DNA-LOGO.png" "/usr/share/icons"
     sudo cp "utility/DNA-recon.desktop" "/usr/share/applications"
