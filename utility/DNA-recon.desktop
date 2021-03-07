@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=DNA-recon
+Comment=DNA-recon 🕵️
+Encoding=UTF-8
+Exec=sh -c "DNA-recon;${SHELL:-bash}"
+Icon=DNA-LOGO.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-info-gathering;
+X-Kali-Package=DNA-recon
+Name[C]=DNA-recon
