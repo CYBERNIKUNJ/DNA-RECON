@@ -4,6 +4,7 @@
 <p align="center">
 <a href=""><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-DNA--RECON-green.svg"></a>
 <a href=""><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
+<a href="https://github.com/CYBERNIKUNJ"><img title="Language" src="https://img.shields.io/badge/Made%20with-PYTHON-1f425f.svg?v=103"></a>
 </p>
 <p align="center">
 <a href="https://github.com/CYBERNIKUNJ"><img width=80% hight=80% title="P-gen" src="https://raw.githubusercontent.com/CYBERNIKUNJ/CYBERNIKUNJ/main/assets/DNA-RECON_assets/DNA-RECON_banner.png"></a>
@@ -15,12 +16,6 @@
 <br>
 <a href="https://telegram.me/cybernikunj"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>&nbsp;&nbsp;<a href="https://www.instagram.com/cybernikunj/"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 <br>
-<a href="https://github.com/CYBERNIKUNJ"><img title="Language" src="https://img.shields.io/badge/Made%20with-PYTHON-1f425f.svg?v=103"></a>
-</p>
-
-<p align="center">
-
-
 </p>
 
 ## ABOUT TOOL :
