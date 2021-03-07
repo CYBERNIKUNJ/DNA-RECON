@@ -2,4 +2,3 @@ requests
 colorama
 ipapi
 builtwith
-pyarmor
