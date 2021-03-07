@@ -70,7 +70,7 @@ For now, this tool uses API mode, which is based on hacker target API which make
 
 ## WATCH VIDEO DEMONSTRATION
 
-[![des](https://raw.githubusercontent.com/CYBERNIKUNJ/CYBERNIKUNJ/main/assets/DNA-RECON_assets/VIDEO_BANEER.png)](https://www.youtube.com/watch?v=DBx7x0z6_-g)
+[![des](https://raw.githubusercontent.com/CYBERNIKUNJ/CYBERNIKUNJ/main/assets/DNA-RECON_assets/VIDEO_BANEER.png)](https://youtu.be/vszt5GcST6E)
 
 ## BUY ME A COFFEE :
 
