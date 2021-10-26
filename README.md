@@ -55,12 +55,17 @@ For now, this tool uses API mode, which is based on hacker target API which make
 * `Just Type :- DNA-recon`
 
 ## INSTALLATION [Termux] :
-
+* `pkg install git`
 * `git clone https://github.com/CYBERNIKUNJ/DNA-RECON`
 * `cd DNA-RECON`
 * `chmod +x *`
 * `./install.sh`
 * `Just Type :- DNA-recon`
+
+## ONE LINE INSTALLATION CODE [Termux] :
+
+`pkg install git && git clone https://github.com/CYBERNIKUNJ/DNA-RECON
+  && cd DNA-RECON  && chmod +x * && ./install.sh && DNA-recon  `
 
 ## SCREEN SHOTS [Termux]
 
